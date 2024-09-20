@@ -282,11 +282,6 @@ This 14-week roadmap is designed to prepare you comprehensively for Machine Lear
     - [Educative Course](https://www.educative.io/courses/grokking-the-system-design-interview)
   - **"Machine Learning Interviews" by Chip Huyen**:
     - [GitHub Repository](https://github.com/chiphuyen/machine-learning-interviews)
-- **Websites**:
-  - **Kaggle for Hands-on ML Practice**:
-    - [kaggle.com](https://www.kaggle.com/)
-  - **Fast.ai for Deep Learning Courses**:
-    - [fast.ai](https://www.fast.ai/)
 
 ## Tips
 
