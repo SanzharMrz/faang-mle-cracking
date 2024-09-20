@@ -2,15 +2,74 @@
 
 ## Overview
 
-This 12-week roadmap is designed to prepare you comprehensively for Machine Learning Engineer interviews at FAANG companies. It covers:
+This 14-week roadmap is designed to prepare you comprehensively for Machine Learning Engineer interviews at FAANG companies. It covers:
 
+- **Mathematics Refresh**
 - **Algorithms and Data Structures**
+- **Machine Learning Concepts**
 - **Machine Learning System Design**
 - **Behavioral Interviews**
 
 ---
 
-## Week 1-2: Foundations in Algorithms and Data Structures
+## Week 1-2: Math Knowledge Refresh
+
+### Goals
+
+- Solidify foundational math concepts crucial for machine learning.
+- Gain confidence in applying mathematical principles to ML problems.
+
+### Action Items
+
+- **Linear Algebra**:
+  - Study vectors, matrices, and operations.
+  - Understand matrix decompositions (Eigenvalues, Eigenvectors, SVD).
+- **Probability and Statistics**:
+  - Review probability distributions, expected values, variance.
+  - Study common distributions (Normal, Binomial, Poisson).
+- **Vector Calculus**:
+  - Understand gradients, partial derivatives, and the chain rule.
+  - Study multivariable calculus concepts relevant to optimization.
+- **Analytic Geometry**:
+  - Review coordinate systems, geometric transformations.
+- **Continuous Optimization**:
+  - Learn about optimization techniques used in ML (Gradient Descent, Lagrange Multipliers).
+
+### Resources
+
+- **Linear Algebra**:
+  - **"Linear Algebra and Its Applications" by Gilbert Strang**:
+    - [Book on Amazon](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/0030105676)
+    - **MIT OpenCourseWare**:
+      - [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+  - **Essence of Linear Algebra (YouTube Series)**:
+    - [3Blue1Brown Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-vQV5ah7wFT6cYZRy)
+
+- **Probability and Statistics**:
+  - **"Probability and Statistics for Engineering and the Sciences" by Jay L. Devore**:
+    - [Book on Amazon](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/1305251806)
+  - **Khan Academy Probability and Statistics**:
+    - [khanacademy.org](https://www.khanacademy.org/math/statistics-probability)
+
+- **Vector Calculus**:
+  - **"Calculus: Multivariable" by William G. McCallum, et al.**:
+    - [Book on Amazon](https://www.amazon.com/Calculus-Multivariable-William-G-McCallum/dp/0470888679)
+  - **MIT OpenCourseWare**:
+    - [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+
+- **Continuous Optimization**:
+  - **"Convex Optimization" by Stephen Boyd and Lieven Vandenberghe**:
+    - [Book available online](https://web.stanford.edu/~boyd/cvxbook/)
+  - **"An Introduction to Optimization" by Edwin K. P. Chong and Stanislaw H. Zak**:
+    - [Book on Amazon](https://www.amazon.com/Introduction-Optimization-Operations-Research-Financial/dp/0471757718)
+
+- **Analytic Geometry**:
+  - **Khan Academy Analytic Geometry**:
+    - [khanacademy.org](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
+
+---
+
+## Week 3-4: Foundations in Algorithms and Data Structures
 
 ### Goals
 
@@ -32,7 +91,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ---
 
-## Week 3-4: Advanced Algorithms and Data Structures
+## Week 5-6: Advanced Algorithms and Data Structures
 
 ### Goals
 
@@ -56,7 +115,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ---
 
-## Week 5-6: Machine Learning Concepts Refresh
+## Week 7-8: Machine Learning Concepts Refresh
 
 ### Goals
 
@@ -78,10 +137,12 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 - **Coursera ML Courses by Andrew Ng**:
   - [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning)
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- **fast.ai Courses**:
+  - [Practical Deep Learning for Coders](https://www.fast.ai/)
 
 ---
 
-## Week 7-8: Machine Learning System Design
+## Week 9-10: Machine Learning System Design
 
 ### Goals
 
@@ -101,6 +162,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 - **"Designing Machine Learning Systems" by Chip Huyen**:
   - [Book on Amazon](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+  - [Companion Website](https://designingml.systems/)
 - **Educative.io Courses on System Design**:
   - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - **Machine Learning System Design Interview Questions**:
@@ -108,7 +170,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ---
 
-## Week 9: Behavioral Interview Preparation
+## Week 11: Behavioral Interview Preparation
 
 ### Goals
 
@@ -134,7 +196,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ---
 
-## Week 10: Mock Interviews and Weakness Review
+## Week 12: Mock Interviews and Weakness Review
 
 ### Goals
 
@@ -159,7 +221,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ---
 
-## Week 11: Company-Specific Preparation
+## Week 13: Company-Specific Preparation
 
 ### Goals
 
@@ -185,7 +247,7 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ---
 
-## Week 12: Final Review and Rest
+## Week 14: Final Review and Rest
 
 ### Goals
 
@@ -239,17 +301,19 @@ This 12-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ## Timeline Summary
 
-- **Weeks 1-4**: Algorithms and Data Structures
-- **Weeks 5-6**: Machine Learning Concepts
-- **Weeks 7-8**: ML System Design
-- **Week 9**: Behavioral Prep
-- **Week 10**: Mock Interviews
-- **Week 11**: Company Prep
-- **Week 12**: Final Review
+- **Weeks 1-2**: Math Knowledge Refresh
+- **Weeks 3-4**: Algorithms and Data Structures
+- **Weeks 5-6**: Advanced Algorithms and Data Structures
+- **Weeks 7-8**: Machine Learning Concepts
+- **Weeks 9-10**: ML System Design
+- **Week 11**: Behavioral Prep
+- **Week 12**: Mock Interviews
+- **Week 13**: Company Prep
+- **Week 14**: Final Review
 
 ---
 
 ## Final Thoughts
 
-Prepare diligently, but also remember to take care of your well-being during this period. Good luck with your interview preparation!
+Refreshing your mathematical foundation will greatly enhance your understanding of machine learning concepts and improve your problem-solving skills during interviews. Prepare diligently, but also remember to take care of your well-being during this period. Good luck with your interview preparation!
 
