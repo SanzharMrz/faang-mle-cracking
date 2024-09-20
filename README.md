@@ -36,6 +36,9 @@ This 14-week roadmap is designed to prepare you comprehensively for Machine Lear
   - Learn about optimization techniques used in ML (Gradient Descent, Lagrange Multipliers).
 
 ### Resources
+- **Overall**
+  - **Awesome math repo with all aggregated resources**:
+    - [awesome math repo](https://github.com/rossant/awesome-math)
 
 - **Linear Algebra**:
   - **"Linear Algebra and Its Applications" by Gilbert Strang**:
