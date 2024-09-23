@@ -19,3 +19,9 @@ Instead of integers, we could also store characters in an array.
 ![image](https://github.com/user-attachments/assets/43ce4839-57a6-41bb-87ac-6d4f69692d8f)
 
 > Each character occupies 1 byte of space, hence the addresses are 1 byte apart.
+
+## Summary
+
+1 byte - 8 bits
+1 address in RAM for integer - 4 bytes slot = 32bits
+1 character (ASCII)          - 1 byte slot  = 4 bits
