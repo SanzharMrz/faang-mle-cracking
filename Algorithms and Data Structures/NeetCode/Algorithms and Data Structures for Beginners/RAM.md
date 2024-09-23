@@ -23,5 +23,7 @@ Instead of integers, we could also store characters in an array.
 ## Summary
 
 1 byte - 8 bits
+
 1 address in RAM for integer - 4 bytes slot = 32bits
+
 1 character (ASCII)          - 1 byte slot  = 4 bits
