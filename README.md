@@ -299,9 +299,9 @@ This 14-week roadmap is designed to prepare you comprehensively for Machine Lear
 
 ## Timeline Summary
 
-- **Weeks 1-2**: Math Knowledge Refresh
-- **Weeks 3-4**: Algorithms and Data Structures
-- **Weeks 5-6**: Advanced Algorithms and Data Structures
+- **Weeks 1-2**: Algorithms and Data Structures
+- **Weeks 3-4**: Advanced Algorithms and Data Structures
+- **Weeks 5-6**: Math Knowledge Refresh
 - **Weeks 7-8**: Machine Learning Concepts
 - **Weeks 9-10**: ML System Design
 - **Week 11**: Behavioral Prep
