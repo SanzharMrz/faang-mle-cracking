@@ -13,5 +13,5 @@
 
 ## Time Complexity Summary:
 - Access: O(1)
-- Insertion: O(n) if in the middle,  O(1) amortized in the end or array is not full
-- Deletion: O(n) if in the middle, O(1) amortized in the end or array is not full
+- Insertion: O(n) if in the middle or any arbitrary place, O(1) amortized in the end or array if it is not full
+- Deletion: O(n) if in the middle or any arbitrary place, O(1) amortized in the end or array if it is not full
