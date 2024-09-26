@@ -19,9 +19,10 @@ A **stack** is a data structure that allows adding and removing elements from on
 
 
 ## Time Complexity:
-Push: O(1)
-Pop: O(1)
-Peek: O(1)
+- Push: O(1)
+- Pop: O(1)
+- Peek: O(1)
+
 Stacks are commonly implemented using dynamic arrays and can be used in scenarios like reversing sequences (e.g., reversing a string).
 
 
