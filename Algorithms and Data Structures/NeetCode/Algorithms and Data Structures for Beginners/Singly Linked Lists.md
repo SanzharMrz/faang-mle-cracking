@@ -15,9 +15,11 @@ A **singly linked list** is a data structure that stores elements in a sequentia
 2. **Traversal**:
    - To traverse a singly linked list, you start at the **head** (the first node) and follow the `next` pointers from one node to the next until you reach the end (when `next` is `null`).
    - Traversal takes **O(n)** time, where **n** is the number of nodes in the list.
+![image](https://github.com/user-attachments/assets/2bba03cc-c741-42f1-a250-9da1add3c182)
 
 3. **Circular Linked List**:
    - If a node's `next` pointer refers back to a previous node (e.g., if the last node points back to the first node), it forms a **circular linked list**. This could cause infinite loops during traversal.
+![image](https://github.com/user-attachments/assets/db79ba16-335b-4500-9001-ab9d870571df)
 
 ### Operations:
 
@@ -28,6 +30,7 @@ A **singly linked list** is a data structure that stores elements in a sequentia
 2. **Deleting**:
    - Deleting a node from a singly linked list is also an **O(1)** operation if you have a reference to the node you want to delete. For example, if you want to delete a node from the middle of the list, you can skip the node by updating the previous node's `next` pointer to point to the node after the one being deleted.
    - As with insertion, if you need to search for the node to delete, the time complexity becomes **O(n)** due to the traversal.
+![image](https://github.com/user-attachments/assets/4749ebe3-2003-4eb4-b8b1-92cf6f55e493)
 
 3. **Access and Search**:
    - Both accessing an element by index and searching for a particular value in a singly linked list take **O(n)** time because you must traverse the list node by node.
