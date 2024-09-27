@@ -4,6 +4,9 @@ A **singly linked list** is a data structure that stores elements in a sequentia
 - **Value**: The data the node holds (e.g., an integer or a string).
 - **Next**: A reference (or pointer) to the next node in the list.
 
+![image](https://github.com/user-attachments/assets/3bd66209-f9a4-4597-b430-3c0b726c9716)
+
+
 ### Key Concepts:
 
 1. **ListNode**:
