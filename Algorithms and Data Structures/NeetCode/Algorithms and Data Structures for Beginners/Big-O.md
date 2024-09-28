@@ -15,4 +15,5 @@ For our purposes, we will only consider Big-O notation because, in general, we o
 * "Polynomial Time" = "Scales/Increases Polynomially" = O(nk) (for any constant k)
 * "Exponential Time" = "Scales/Increases Exponentially" = O(kⁿ) (for any constant k)
 * "Factorial Time" = O(n!)
+  
 ![image](https://github.com/user-attachments/assets/41c4bb9c-a5f4-4c7c-9bd6-082296784475)
