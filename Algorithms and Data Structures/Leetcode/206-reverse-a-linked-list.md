@@ -1,6 +1,6 @@
 # 206. Reverse a Linked List
 
-* link: [[https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/](https://leetcode.com/problems/remove-element/description/)(https://leetcode.com/problems/reverse-linked-list/description/)
+* link: https://leetcode.com/problems/reverse-linked-list/description/
 * main idea:
   * create two pointers
     * ```current``` which is copy of head
