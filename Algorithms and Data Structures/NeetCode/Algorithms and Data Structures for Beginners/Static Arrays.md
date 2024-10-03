@@ -12,3 +12,8 @@ Some dynamically typed languages such as Python and JavaScript do not have stati
 - For traversing: Iterating through an array takes ```O(n)``` time, where n is the size of the array.
 - For deleting: Removing an element from the end of the array is ```O(1)```, but deleting from the middle requires shifting elements, making it ```O(n)```.
 - For inserting: Adding an element at the end is ```O(1)```, while inserting in the middle requires shifting elements, resulting in ```O(n)``` time complexity.
+
+### STOP and Think
+> Array structures (e.g. the array, or the Java ArrayList, or the C++ array and vector, etc.) require that all elements be the same size. However, array structures can contain strings, which can be different lengths (and thus different sizes in memory). How is this possible?
+
+Because every string is stored as a pointer to a piece of memory where the actual "string" is stored. This is why each array, despite the size of the strings, homogenously. Therefore, each element has the same amount of memory allowing it to be accessed directly and efficiently (random access). What gets stored inside the array of strings is effectively just a pointer (or in C, it literally is just a pointer!) which points to some array of characters somewhere that store the actual symbols in the string
